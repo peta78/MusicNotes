@@ -6,5 +6,6 @@ Singer Wikipedia page: [Dara Rolins](https://en.wikipedia.org/wiki/Dara_Rolins)
 
 Note: B6 (full voice, no falsetto, nor "cat in heat sound") 
 
+[Notes frequencies](https://homes.luddy.indiana.edu/donbyrd/Teach/MusicalPitchesTable.htm)
 
 ![spectrum](darinkab6.png)
