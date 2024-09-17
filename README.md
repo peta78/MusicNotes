@@ -18,8 +18,6 @@ Singer's Youtube: [David Archuleta](https://www.youtube.com/channel/UC75d1FNP1qR
 
 Note: G6 (full voice, very clean)
 
-[Notes frequencies](https://homes.luddy.indiana.edu/donbyrd/Teach/MusicalPitchesTable.htm)
-
 ![spectrum](archieg6.png)
 
 
