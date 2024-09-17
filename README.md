@@ -16,7 +16,7 @@ Singer Wikipedia page: [David Archuleta](https://en.wikipedia.org/wiki/David_Arc
 
 Singer's Youtube: [David Archuleta](https://www.youtube.com/channel/UC75d1FNP1qR0lCY1usRKQEw)
 
-Note: G6 (full voice, very clean)
+Note: G6 (full voice, very clean, he can obviously go higher...)
 
 ![spectrum](archieg6.png)
 
