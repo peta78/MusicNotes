@@ -1,4 +1,4 @@
-# MusicNotes
+# Music Notes
 
 WAV Source: [Darinka Rolincova - Strasidla](https://youtu.be/G0r06nbJoQ8?si=8l0269eAmpx9y7QM&t=49)
 
