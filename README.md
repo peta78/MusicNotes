@@ -6,7 +6,7 @@ Singer Wikipedia page: [Dara Rolins](https://en.wikipedia.org/wiki/Dara_Rolins)
 
 Singer's Youtube: [Dara Rolins](https://www.youtube.com/channel/UCMKV1A4A7p090CREb5NVbug) and [Darina Rolincova](https://www.youtube.com/@darinarolincova7719)
 
-Note: B6 (full voice, no falsetto, nor "cat in heat sound") 
+Note: B6 (full voice, no falsetto, nor "cat in heat sound", roughly one second length) 
 
 ![spectrum](darinkab6.png)
 
