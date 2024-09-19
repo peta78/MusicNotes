@@ -8,7 +8,7 @@ Singer's Youtube: [Hunter Flynn](https://www.youtube.com/@hunterflynn)
 
 Note: C7 (full voice, very clean, damn boy...)
 
-![spectrum](darinkab6.png)
+![spectrum](hunterc7.png)
 
 WAV Source: [Darinka Rolincova - Strasidla](https://youtu.be/G0r06nbJoQ8?si=8l0269eAmpx9y7QM&t=49)
 
