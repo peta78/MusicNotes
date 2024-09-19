@@ -38,7 +38,7 @@ Singer's Youtube: [Kelly Clarkson](https://www.youtube.com/channel/UCoRUmyNL8KEY
 
 Note: F#6 (full voice, very clean, very long, she can SING amazingly on recordings and live as well...)
 
-![spectrum](kellyf#6.png)
+![spectrum](kellyfsharp6.png)
 
 WAV Source: [Mariah Carey - Love takes time](https://www.youtube.com/watch?v=FkDpwF6-QiA)
 
