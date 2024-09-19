@@ -20,7 +20,15 @@ Note: G6 (full voice, very clean, he can obviously go higher...)
 
 ![spectrum](archieg6.png)
 
+WAV Source: [Mariah Carey - Love takes time](https://www.youtube.com/watch?v=FkDpwF6-QiA)
 
+Singer Wikipedia page: [Mariah Carey](https://en.wikipedia.org/wiki/Mariah_Carey)
+
+Singer's Youtube: [Mariah Carey](https://www.youtube.com/channel/UCurpiDXSkcUbgdMwHNZkrCg)
+
+Note: E6 (full voice, pretty clean, not sure if she can go higher, I don't have all the albums...)
+
+![spectrum](mariahe6.png)
 
 
 [Notes frequencies](https://homes.luddy.indiana.edu/donbyrd/Teach/MusicalPitchesTable.htm)
