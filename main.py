@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from pydub import AudioSegment
 from pydub.utils import get_array_type
 
-sound = AudioSegment.from_file(file='hunter.wav')
+sound = AudioSegment.from_file(file='kelly.wav')
 left = sound.split_to_mono()[0]
 
 bit_depth = left.sample_width * 8
