@@ -44,8 +44,14 @@ res = []
 resX = []
 t = []
 mv = 0
-for i in range(l.shape[0]-fftsize):
+
+howlong = l.shape[0]-fftsize
+for i in range(howlong):
+
     # todo - add progress bar
+    if i % (howlong // 10) == 0:
+        print('.', end='', flush=True)
+
     t.append(i / sound.frame_rate)
     ffta = np.abs(np.fft.fft(l[i:i+fftsize])[0:fftsize//2])
     tmp = []
