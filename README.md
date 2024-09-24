@@ -52,6 +52,17 @@ Note: E6 (full voice, pretty clean, not sure if she can go higher, I don't have 
 
 ![spectrum](mariahe6.png)
 
+WAV Source: [Haley Reinhart - White Rabbit](https://www.youtube.com/watch?v=JUnN73nooxs)
+
+Singer Wikipedia page: [Haley Reinhart](https://en.wikipedia.org/wiki/Haley_Reinhart)
+
+Singer's Youtube: [Haley Reinhart](https://www.youtube.com/channel/UCwXYEA4cQYBSqYQDkN5xQzA)
+
+Note: G5 (full voice, who cares about notes when you sing amazingly like Haley...)
+
+![spectrum](hrg5.png)
+
+
 
 [Notes frequencies](https://homes.luddy.indiana.edu/donbyrd/Teach/MusicalPitchesTable.htm)
 
