@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from pydub import AudioSegment
 from pydub.utils import get_array_type
 
-sound = AudioSegment.from_file(file='kelly.wav')
+sound = AudioSegment.from_file(file='hr.wav')
 left = sound.split_to_mono()[0]
 
 bit_depth = left.sample_width * 8
@@ -45,6 +45,7 @@ resX = []
 t = []
 mv = 0
 for i in range(l.shape[0]-fftsize):
+    # todo - add progress bar
     t.append(i / sound.frame_rate)
     ffta = np.abs(np.fft.fft(l[i:i+fftsize])[0:fftsize//2])
     tmp = []
