@@ -52,6 +52,16 @@ Note: E6 (full voice, pretty clean, not sure if she can go higher, I don't have 
 
 ![spectrum](mariahe6.png)
 
+WAV Source: [Beyoncé - Halo](https://www.youtube.com/watch?v=bnVUHWCynig)
+
+Singer Wikipedia page: [Beyoncé](https://www.youtube.com/channel/UCuHzBCaKmtaLcRAOoazhCPA)
+
+Singer's Youtube: [Beyoncé](https://en.wikipedia.org/wiki/Beyonc%C3%A9)
+
+Note: A5 (it's beyonce, no words needed... I can see your Halo girl ;) )
+
+![spectrum](beyoncea5.png)
+
 WAV Source: [Haley Reinhart - White Rabbit](https://www.youtube.com/watch?v=JUnN73nooxs)
 
 Singer Wikipedia page: [Haley Reinhart](https://en.wikipedia.org/wiki/Haley_Reinhart)
