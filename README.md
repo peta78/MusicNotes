@@ -52,6 +52,16 @@ Note: E6 (full voice, pretty clean, not sure if she can go higher, I don't have 
 
 ![spectrum](mariahe6.png)
 
+WAV Source: [Matteo Bocelli - Can You Feel the Love Tonight](https://www.youtube.com/watch?v=tnTtj7zDX38)
+
+Singer Wikipedia page: [Matteo Bocelli](https://es.wikipedia.org/wiki/Matteo_Bocelli)
+
+Singer's Youtube: [Matteo Bocelli](https://www.youtube.com/channel/UCGjtLJZa5JoDC06qApK-tvQ)
+
+Note: D6 (my singing ethalon, i really like the way he sings)
+
+![spectrum](matteod6.png)
+
 WAV Source: [Beyoncé - Halo](https://www.youtube.com/watch?v=bnVUHWCynig)
 
 Singer Wikipedia page: [Beyoncé](https://www.youtube.com/channel/UCuHzBCaKmtaLcRAOoazhCPA)
