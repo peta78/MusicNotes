@@ -40,6 +40,16 @@ Note: F#6 (full voice, very clean, very long, she can SING amazingly on recordin
 
 ![spectrum](kellyfsharp6.png)
 
+WAV Source: [Celine Dion - All By Myself](https://www.youtube.com/watch?v=NGrLb6W5YOM)
+
+Singer Wikipedia page: [Celine Dion](https://en.wikipedia.org/wiki/Celine_Dion)
+
+Singer's Youtube: [Celine Dion](https://www.youtube.com/channel/UC_yGU4qz9zAjEWLQxCg9NZQ)
+
+Note: F6 (Going to Celine's concert can be little annoying. She sounds like her recordings. This is HUGE compliment. Oh yeah, F6. Who cares though. It's Celine.)
+
+![spectrum](celinef6.png)
+
 WAV Source: [Mariah Carey - Love takes time](https://www.youtube.com/watch?v=FkDpwF6-QiA)
 
 Singer Wikipedia page: [Mariah Carey](https://en.wikipedia.org/wiki/Mariah_Carey)
