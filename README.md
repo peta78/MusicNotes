@@ -1,5 +1,15 @@
 # Music Notes from my favourite singers
 
+## Sheryl Crow
+
+Currently deciding which note...
+
+Singer Wikipedia page: [Sheryl Crow](https://en.wikipedia.org/wiki/Sheryl_Crow)
+
+Number of concerts attented by me: 1 (with my dog Boo)
+
+## Hunter Flynn
+
 WAV Source: [Hunter Flynn - You deserve it all](https://www.youtube.com/watch?v=WjuqwcEsJDY)
 
 Singer Wikipedia page: [Hunter Flynn webpage](https://hunterflynn.com/)
@@ -11,6 +21,8 @@ Note: C7 (full voice, very clean, damn boy...)
 Number of concerts attented by me: 0
 
 ![spectrum](hunterc7.png)
+
+## Dara Rolins
 
 WAV Source: [Darinka Rolincova - Strasidla](https://youtu.be/G0r06nbJoQ8?si=8l0269eAmpx9y7QM&t=49)
 
@@ -24,6 +36,8 @@ Number of concerts attented by me: Beyond 5
 
 ![spectrum](darinkab6.png)
 
+## David Archuleta
+
 WAV Source: [David Archuleta - Angels We Have Heard On High](https://youtu.be/VFh-UtMzpi0?si=0bXwt203csPaKHIn&t=111)
 
 Singer Wikipedia page: [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta)
@@ -35,6 +49,8 @@ Note: G6 (full voice, very clean, he can obviously go higher...)
 Number of concerts attented by me: Beyond 5
 
 ![spectrum](archieg6.png)
+
+## Kelly Clarkson
 
 WAV Source: [Kelly Clarkson - Favorite Kind Of High](https://www.youtube.com/watch?v=AuPV2hk5Ekg)
 
@@ -48,6 +64,8 @@ Number of concerts attented by me: 1
 
 ![spectrum](kellyfsharp6.png)
 
+## Celine Dion
+
 WAV Source: [Celine Dion - All By Myself](https://www.youtube.com/watch?v=NGrLb6W5YOM)
 
 Singer Wikipedia page: [Celine Dion](https://en.wikipedia.org/wiki/Celine_Dion)
@@ -59,6 +77,8 @@ Note: F6 (Going to Celine's concert can be little annoying. She sounds like her 
 Number of concerts attented by me: 1
 
 ![spectrum](celinef6.png)
+
+## Mariah Carey
 
 WAV Source: [Mariah Carey - Love takes time](https://www.youtube.com/watch?v=FkDpwF6-QiA)
 
@@ -72,6 +92,8 @@ Number of concerts attented by me: 0
 
 ![spectrum](mariahe6.png)
 
+## Matteo Bocelli
+
 WAV Source: [Matteo Bocelli - Can You Feel the Love Tonight](https://www.youtube.com/watch?v=tnTtj7zDX38)
 
 Singer Wikipedia page: [Matteo Bocelli](https://es.wikipedia.org/wiki/Matteo_Bocelli)
@@ -83,6 +105,8 @@ Note: D6 (my singing ethalon, i really like the way he sings)
 Number of concerts attented by me: 0
 
 ![spectrum](matteod6.png)
+
+## Beyoncé
 
 WAV Source: [Beyoncé - Halo](https://www.youtube.com/watch?v=bnVUHWCynig)
 
@@ -96,6 +120,8 @@ Number of concerts attented by me: 0
 
 ![spectrum](beyoncea5.png)
 
+## Haley Reinhart
+
 WAV Source: [Haley Reinhart - White Rabbit](https://www.youtube.com/watch?v=JUnN73nooxs)
 
 Singer Wikipedia page: [Haley Reinhart](https://en.wikipedia.org/wiki/Haley_Reinhart)
@@ -107,6 +133,8 @@ Note: G5 (full voice, who cares about notes when you sing amazingly like Haley..
 Number of concerts attented by me: 1
 
 ![spectrum](hrg5.png)
+
+## Whitney Houston
 
 WAV Source: [Whitney Houston - My Love Is Your Love](https://www.youtube.com/watch?v=kxZD0VQvfqU)
 
