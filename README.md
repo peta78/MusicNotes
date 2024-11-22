@@ -144,7 +144,7 @@ Singer Wikipedia page: [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_H
 
 Singer's Youtube: [Whitney Houston](https://www.youtube.com/channel/UC7fzrpTArAqDHuB3Hbmd_CQ)
 
-Note: F5 (one of the most amazing pop songs, one of the most amazing lyrics, one of the most amazing voices. Sang perfectly with full soul ON. I don't know who sang background vocal, but hat down as well for that lady...)
+Note: F5 (one of the most amazing pop songs, one of the most amazing lyrics, one of the most amazing voices. Sang perfectly with full soul ON. I don't remember names of the background vocalists, but hats down to you ladies as well...)
 
 Number of concerts attented by me: 0
 
