@@ -8,6 +8,8 @@ Singer Wikipedia page: [Sheryl Crow](https://en.wikipedia.org/wiki/Sheryl_Crow)
 
 Number of concerts attented by me: 1 (with my dog Boo)
 
+Oh Sheryl, you are such a beautiful pain in my ... right now; so many amazing lyrics, so much amazing music, so many beautiful notes; it's hard to pick one. And for the record, I never hated you. I only hated Kelly once for 5 minutes, because I got jealous when she made Piece By Piece album. I got over it quickly though and thanked ...;
+
 ## Hunter Flynn
 
 WAV Source: [Hunter Flynn - You deserve it all](https://www.youtube.com/watch?v=WjuqwcEsJDY)
