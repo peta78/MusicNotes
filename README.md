@@ -8,7 +8,10 @@ Singer Wikipedia page: [Sheryl Crow](https://en.wikipedia.org/wiki/Sheryl_Crow)
 
 Number of concerts attented by me: 1 (with my dog Boo)
 
-Oh Sheryl, you are such a beautiful pain in my ... right now; so many amazing lyrics, so much amazing music, so many beautiful notes; it's hard to pick one. And for the record, I never hated you. I only hated Kelly once for 5 minutes, because I got jealous when she made Piece By Piece album. I got over it quickly though and thanked ...;
+Oh Sheryl, you are such a beautiful pain in my ... right now; so many amazing lyrics, so much amazing music, so many beautiful notes; it's hard to pick one. And for the record, I never hated you. I only hated Kelly once for 5 minutes, because I got jealous when she made Piece By Piece album. I got over it quickly though and 
+thanked ...;
+
+Marika Gombitova - Pycha a Pad
 
 [Helena Vondrackova](https://en.wikipedia.org/wiki/Helena_Vondr%C3%A1%C4%8Dkov%C3%A1), [Marta Kubisova](https://en.wikipedia.org/wiki/Marta_Kubi%C5%A1ov%C3%A1), Justin Bieber, Ariana Grande, [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) & [George Michael](https://en.wikipedia.org/wiki/George_Michael) also in progress... George is dead, I don't think he cares.
 
