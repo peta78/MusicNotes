@@ -13,7 +13,7 @@ thanked ...;
 
 [Marika Gombitova](https://en.wikipedia.org/wiki/Marika_Gombitov%C3%A1) - Pycha a Pad
 
-[Helena Vondrackova](https://en.wikipedia.org/wiki/Helena_Vondr%C3%A1%C4%8Dkov%C3%A1), [Marta Kubisova](https://en.wikipedia.org/wiki/Marta_Kubi%C5%A1ov%C3%A1), Justin Bieber, Ariana Grande, [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) & [George Michael](https://en.wikipedia.org/wiki/George_Michael) also in progress... George is dead, I don't think he cares.
+[Helena Vondrackova](https://en.wikipedia.org/wiki/Helena_Vondr%C3%A1%C4%8Dkov%C3%A1), [Marta Kubisova](https://en.wikipedia.org/wiki/Marta_Kubi%C5%A1ov%C3%A1), Justin Bieber, Jana Kirschner, Katarina Knechtova, Ariana Grande, [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) & [George Michael](https://en.wikipedia.org/wiki/George_Michael) also in progress... George is dead, I don't think he cares.
 
 ## Hunter Flynn
 
