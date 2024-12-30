@@ -1,14 +1,5 @@
 # Music Notes from my favourite singers
 
-## Sheryl Crow
-
-Singer Wikipedia page: [Sheryl Crow](https://en.wikipedia.org/wiki/Sheryl_Crow)
-
-Note: A#6
-
-Song: Every day is a winding road (chosen because of lyrics)
-
-Number of concerts attented by me: 1 (with my dog Boo)
 
 ## Hunter Flynn
 
@@ -33,6 +24,16 @@ Singer's Youtube: [Dara Rolins](https://www.youtube.com/channel/UCMKV1A4A7p090CR
 Note: B6 (full voice, no falsetto, nor "cat in heat sound", roughly one second length. Dara is my #1, but we both lived in the same country for a while so she had unfair starting position...)
 
 Number of concerts attented by me: Beyond 5
+
+## Sheryl Crow
+
+Singer Wikipedia page: [Sheryl Crow](https://en.wikipedia.org/wiki/Sheryl_Crow)
+
+Note: A#6
+
+Song: Every day is a winding road (chosen because of lyrics)
+
+Number of concerts attented by me: 1 (with my dog Boo)
 
 ## David Archuleta
 
