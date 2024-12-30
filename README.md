@@ -22,8 +22,6 @@ Note: C7 (full voice, very clean, damn boy...)
 
 Number of concerts attented by me: 0
 
-![spectrum](hunterc7.png)
-
 ## Dara Rolins
 
 WAV Source: [Darinka Rolincova - Strasidla](https://youtu.be/G0r06nbJoQ8?si=8l0269eAmpx9y7QM&t=49)
@@ -35,8 +33,6 @@ Singer's Youtube: [Dara Rolins](https://www.youtube.com/channel/UCMKV1A4A7p090CR
 Note: B6 (full voice, no falsetto, nor "cat in heat sound", roughly one second length. Dara is my #1, but we both lived in the same country for a while so she had unfair starting position...)
 
 Number of concerts attented by me: Beyond 5
-
-![spectrum](darinkab6.png)
 
 ## David Archuleta
 
@@ -50,8 +46,6 @@ Note: G6 (full voice, very clean, he can obviously go higher...)
 
 Number of concerts attented by me: Beyond 5
 
-![spectrum](archieg6.png)
-
 ## Kelly Clarkson
 
 WAV Source: [Kelly Clarkson - Favorite Kind Of High](https://www.youtube.com/watch?v=AuPV2hk5Ekg)
@@ -63,8 +57,6 @@ Singer's Youtube: [Kelly Clarkson](https://www.youtube.com/channel/UCoRUmyNL8KEY
 Note: F#6 (full voice, very clean, very long, she can SING amazingly on recordings and live as well...)
 
 Number of concerts attented by me: 1
-
-![spectrum](kellyfsharp6.png)
 
 ## Celine Dion
 
@@ -78,8 +70,6 @@ Note: F6 (Going to Celine's concert can be little annoying. She sounds like her 
 
 Number of concerts attented by me: 1
 
-![spectrum](celinef6.png)
-
 ## Mariah Carey
 
 WAV Source: [Mariah Carey - Love takes time](https://www.youtube.com/watch?v=FkDpwF6-QiA)
@@ -91,8 +81,6 @@ Singer's Youtube: [Mariah Carey](https://www.youtube.com/channel/UCurpiDXSkcUbgd
 Note: E6 (full voice, pretty clean, not sure if she can go higher, I don't have all the albums...)
 
 Number of concerts attented by me: 0
-
-![spectrum](mariahe6.png)
 
 ## Matteo Bocelli
 
@@ -106,8 +94,6 @@ Note: D6 (my singing ethalon, i really like the way he sings)
 
 Number of concerts attented by me: 0
 
-![spectrum](matteod6.png)
-
 ## Beyoncé
 
 WAV Source: [Beyoncé - Halo](https://www.youtube.com/watch?v=bnVUHWCynig)
@@ -119,8 +105,6 @@ Singer's Youtube: [Beyoncé](https://en.wikipedia.org/wiki/Beyonc%C3%A9)
 Note: A5 (it's beyonce, no words needed... I can see your Halo girl ;) )
 
 Number of concerts attented by me: 0
-
-![spectrum](beyoncea5.png)
 
 ## Haley Reinhart
 
@@ -134,8 +118,6 @@ Note: G5 (full voice, who cares about notes when you sing amazingly like Haley..
 
 Number of concerts attented by me: 1
 
-![spectrum](hrg5.png)
-
 ## Whitney Houston
 
 WAV Source: [Whitney Houston - My Love Is Your Love](https://www.youtube.com/watch?v=kxZD0VQvfqU)
@@ -147,8 +129,6 @@ Singer's Youtube: [Whitney Houston](https://www.youtube.com/channel/UC7fzrpTArAq
 Note: F5 (one of the most amazing pop songs, one of the most amazing lyrics, one of the most amazing voices. Sang perfectly with full soul ON. I don't remember names of the background vocalists, but hats down to you ladies as well...)
 
 Number of concerts attented by me: 0
-
-![spectrum](whitneyf5.png)
 
 ## References
 
